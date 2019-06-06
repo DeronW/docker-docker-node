@@ -25,3 +25,8 @@ publish
 或者，启动某个镜像
 
 > docker run -t -i docker-docker-node /bin/sh
+
+
+### qshell_linux_x64
+
+https://developer.qiniu.com/kodo/tools/1302/qshell#9
