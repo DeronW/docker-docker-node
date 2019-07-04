@@ -10,11 +10,11 @@ build
 
 tag
 
-> docker tag docker-docker-node:latest delongw/docker-docker-node:0.6
+> docker tag docker-docker-node:latest delongw/docker-docker-node:0.7
 
 publish
 
-> docker push delongw/docker-docker-node:0.6
+> docker push delongw/docker-docker-node:0.7
 
 ### check docker inner files
 
